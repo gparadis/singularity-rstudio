@@ -1,8 +1,8 @@
 BootStrap: shub
-From: nickjer/singularity-r
+From: gparadis/singularity-r
 
 %labels
-  Maintainer Jeremy Nicklas
+  Maintainer Gregory Paradis
   RStudio_Version 1.2.5033
 
 %help
